@@ -30,7 +30,7 @@
           org: "77b28152trial"
           space: "dev"
           credentialsId: "cfdeploy"
-          appName: "risk-management"
+          appName: ""
         mtaDeployParameters: "-f --version-rule ALL"
       artifactPrepareVersion:
         versioningType: "cloud_noTag"
